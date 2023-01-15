@@ -18,3 +18,7 @@ The following is a summary of the strategy we implemented:
 7. Generate Final Portfolio
 
 Each step of our strategy explains more in depth on how each measure is used to create a safe portfolio.
+
+## Final Discussion
+
+In summary, the three measures we used to build our safe portfolio with the maximum number of stocks possible are **beta**, which is a measurement of systematic risk, **standard deviation**, which is a measurement of the total risk of our portfolio’s expected return, and **correlation**, which is a measurement of how closely the returns of each security are related to each other. Although these three measures can provide us with a good indication of our total portfolio risk, there are some **limitations** to each of these methods of determining portfolio risk. For instance, beta is calculated based on historical data, so it is harder to predict how a stock will perform in the future since volatile stocks can fluctuate significantly over the years. However, these three measures of risk are more effective when used together to determine the safest portfolio that can be generated from the list of tickers given. 
